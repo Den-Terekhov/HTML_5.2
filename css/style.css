@@ -1,0 +1,52 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+}
+
+.block {
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 10px solid #000;
+}
+
+.no-topborder {
+  border-top: 0px;
+}
+
+th,
+td { 
+  width: 60px;
+  height: 60px;
+}
+
+th {
+  border: 0px solid #000;
+}
+
+tr {
+  height: 60px;
+}
+
+.red {
+  background-color: #ff6649;
+}
+
+.yellow {
+  background-color: #fff66c;
+}
+
+.blue {
+  background-color: #0c357a;
+}
+
+.black {
+  background-color: #1b1819;
+}
